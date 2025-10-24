@@ -1,4 +1,6 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
+## NAME : WAHHAJ AHAMED 
+## REF NO : 25005393
 
 **AIM:**
 
@@ -24,20 +26,15 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
-**To measure IL**
+![WhatsApp Image 2025-10-24 at 20 01 58_33b54bdd](https://github.com/user-attachments/assets/f0447c04-9ab9-4ce7-89d2-dab286b970f9)
+![WhatsApp Image 2025-10-24 at 20 02 16_c20c46e8](https://github.com/user-attachments/assets/ea0bd77e-a690-4ce1-93bc-c62927bc3fef)
+![WhatsApp Image 2025-10-24 at 20 02 29_fe290225](https://github.com/user-attachments/assets/7f2eef35-cfc7-4fe9-9950-413d0e8bfcf1)
+![WhatsApp Image 2025-10-24 at 20 02 48_4951fb97](https://github.com/user-attachments/assets/73f116fe-bbf9-42d5-8a2b-112eb4d58026)
+![WhatsApp Image 2025-10-24 at 20 03 06_27386bee](https://github.com/user-attachments/assets/9332751f-85c5-41bf-a236-b7d8c92f91c7)
 
 
-**To measure RTh or RN**
 
 
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
 
 
 **PROCEDURE:**
